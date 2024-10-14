@@ -1,0 +1,33 @@
+_repo: Presidential-addresses-and-State-papers-Vol-1_74572
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: https://en.wikipedia.org/wiki/Theodore_Roosevelt
+description: ''
+gutenberg_issued: '2024-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74572'
+language: en
+pgterms:marc904: https://archive.org/details/presidentialadd13roosrich
+pgterms:marc905: 20220510234254roosevelt
+pgterms:marc906: '1910'
+pgterms:marc907: us
+production_note: A Marshall and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Review of Reviews Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Presidential addresses and State papers (Vol. 1)
+url: http://www.gutenberg.org/ebooks/74572
