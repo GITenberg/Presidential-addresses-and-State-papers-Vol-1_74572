@@ -1,5 +1,8 @@
 _repo: Presidential-addresses-and-State-papers-Vol-1_74572
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74572-h/images/cover.jpg
 creator:
   author:
     agent_name: Roosevelt, Theodore
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/729
     wikipedia: https://en.wikipedia.org/wiki/Theodore_Roosevelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74572#Presidential-addresses-and-State-papers-Vol-1
 gutenberg_issued: '2024-10-13'
 gutenberg_type: Text
 identifiers:
